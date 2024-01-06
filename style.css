@@ -235,7 +235,7 @@ background: var(--second-bg-color);
         font-size: 1.6rem;
         margin: 1rem 0 3rem;
      }
-portfolio {
+.portfolio {
         background: var(--second-bg-color);
      }
      .portfolio h2 {
