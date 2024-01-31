@@ -29,7 +29,7 @@
     <h3>Hey, It's Me</h3>
     <h1>Rutvik barot</h1>
     <h3>And I'm a <span class="multiple-text"></span></h3>
-    <p>I have knowledge about creating interactive applications and experiences on the web as front end developer</p>
+    <p>I have knowledge about creating interactive and amazing website as front end web developer and good experience on Ui/UX</p>
     <div class="social-media">
         <a href="https://www.facebook.com/rithvik.barot?mibextid=ZbWKwL"><i class='bx bxl-facebook' ></i></a>
         <a href="https://twitter.com/_rtvk_7"><i class='bx bxl-twitter' ></i></a>
@@ -58,14 +58,14 @@
         A self-tought Frontend Web Developer. im looking for an opportunity in Web Development.
         Who is committed to study web development. Mindset to fullfill the life with
         wonderful memories and knowledge.
-        I have wonderfull experience for software development , ethical hacking & graphic designing.</p>
+        I have wonderfull experience for Ui/Ux designing & graphic designing..</p>
     <a href="#" class="btn">Read More</a>
     </div>
  </section>
 
  
 <section class="services" id="services">
-    <h2 class="heading">Our <span>Services</span></h2>
+    <h2 class="heading">My <span>Services</span></h2>
     <div class="services-container">
     <div class="services-box">
     <i class='bx bx-code-alt'></i>
@@ -81,7 +81,7 @@
             <i class='bx bxl-windows'></i>
         <h3>UI/UX Design</h3>
         <p>i'm skilled in figma and  other ui ux tools to make amazing And unique design for client.
-        also i have good  knowledge in 3d model with parallax theme so design become more attractive.</p>
+        and i also make 3d model with parallax theme so design become more attractive.</p>
         <a href="#" class="btn">Read More</a>
         </div>
 
@@ -175,7 +175,7 @@ section design-->
 
 <footer class="footer">
 <div class="footer-text">
-<p>Copyright &copy; 2023 by Rutvik | All Rights Reserved.</p>
+<p>Copyright &copy; 2024 by Rutvik | All Rights Reserved.</p>
 </div>
 <div class="footer-iconTop">
 <a href="#home"><i class='bx bx-up-arrow-alt'></i></a>
