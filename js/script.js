@@ -49,7 +49,7 @@ ScrollReveal().reveal('.home-content h1, .about-img', { origin: 'left' }); Scrol
 
 
 const typed = new Typed('.multiple-text', {
-strings: ['Front-End Web Developer', ' UI/UX Designer ' ,'Graphic Designer','Ethical Hacker'],
+strings: ['Front-End Web Developer', ' UI/UX Designer ' ,'Graphic Designer'],
 typeSpeed: 100,
 backSpeed: 100,
 backDelay: 1000,
